@@ -8,8 +8,8 @@
 
 ## 👋 About Me
 
-- **👀 Interests**: Coding, Game Development, and Open Source Contributions
-- **🌱 Learning**: C Programming, React.js, and TypeScript
+- **👀 Interests**: Gaming, Web Development, Game Development, and Open Source Contributions
+- **🌱 Learning**: React.js, TypeScript, and C/C++
 - **💡 Collaboration**: Passionate about working on innovative tech solutions and open-source projects
 - **📬 Contact Me**: Reach out via the links below!
 
