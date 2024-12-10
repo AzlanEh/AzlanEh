@@ -1,4 +1,63 @@
-# Hi, I’m @Azlan_Ehtasham 
+# Hi, I’m @Azlan_Ehtasham
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Open+Source+Enthusiast;Empowering+Ideas+Through+Code" alt="Typing SVG">
+</p>
+
+---
+
+### About Me
+
+- 👀 **I’m interested in**: Coding, Open Source, and Game Development
+- 🌱 **Currently Learning**: C Programming, React.js, and TypeScript
+- 💞️ **Looking to Collaborate on**: Open-source projects and innovative tech solutions
+- 📫 **How to reach me**: Check the links below!
+
+---
+
+## 🚀 GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-stats.nabak.dev/api?username=AzlanEh&show_icons=true&hide_rank=false&bg_color=0d1117&text_color=58A6FF&border_color=30363D&title_color=F78166&icon_color=F78166&cache_seconds=14400&line_height=28&custom_title=GitHub+Stats" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzlanEh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://t.me/nabakdev" target="_blank">
+    <img align="top" height="40" src="https://img.shields.io/badge/Telegram-1793D1?logo=Telegram&logoColor=FFFFFF" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/azlan-ehtasham/" target="_blank">
+    <img align="top" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img align="top" height="40" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=FFFFFF" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="GitHub Readme Quote">
+</div>
+
+---
+
+> **"Code is like humor. When you have to explain it, it’s bad."**
+
+<p align="center">Thanks for stopping by! Feel free to explore my repositories and connect with me.</p>
+
+
+
+
+
+
+
+<!---  # Hi, I’m @Azlan_Ehtasham 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7D700&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;Always+Learning+Something+New" alt="Typing SVG">
@@ -45,7 +104,7 @@
 
 > **"Code is like humor. When you have to explain it, it’s bad."**
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+Thanks for stopping by! Feel free to explore my repositories and connect with me.  --->
 
 
 
