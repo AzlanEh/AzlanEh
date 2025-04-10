@@ -17,9 +17,16 @@
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzlanEh&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlaneh&theme=radical&layout=compact" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=azlaneh&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaneh&theme=github-dark&hide_border=true)
 
