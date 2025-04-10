@@ -21,6 +21,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AzlanEh&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaneh&theme=github-dark&hide_border=true)
+
 ---
 
 ## 🌐 Connect with Me
@@ -39,9 +41,6 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaneh&theme=github-dark&hide_border=true)
-
----
 ## ✨ Favorite Quote
 
 <div align="center">
