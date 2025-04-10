@@ -39,7 +39,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaneh&theme=github-dark&hide_border=true)
 
 ---
 ## ✨ Favorite Quote
