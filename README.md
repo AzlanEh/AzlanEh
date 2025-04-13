@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlaneh&theme=radical&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlaneh&theme=radical&layout=compact" />
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=azlaneh&show_icons=true&theme=radical&hide_border=true" />
