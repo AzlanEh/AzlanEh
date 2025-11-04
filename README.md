@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0DB9F0&size=28&center=true&vCenter=true&width=650&lines=Hi+there!+I’m+Azlan+Ehtasham;Full-Stack+Developer+%7C+Tech+Enthusiast;Open+to+Collaboration+%7C+Lifelong+Learner" alt="Typing SVG">
 </p>
