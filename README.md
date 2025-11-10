@@ -39,7 +39,7 @@
   </a>
   <!-- Profile Views Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ndunguloren96&label=Profile%20views&color=0e75b6&style=flat" alt="ndunguloren96" />
+  <img src="https://komarev.com/ghpvc/?username=azlaneh&label=Profile%20views&color=0e75b6&style=flat" alt="azlaneh" />
 </p>
 
 </div>
