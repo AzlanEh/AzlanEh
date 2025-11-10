@@ -37,6 +37,10 @@
   <a href="mailto:azlanehtesham02@gmail.com" target="_blank">
     <img align="center" height="40" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=FFFFFF" alt="Email">
   </a>
+  <!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ndunguloren96&label=Profile%20views&color=0e75b6&style=flat" alt="ndunguloren96" />
+</p>
 
 </div>
 <!--
