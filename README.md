@@ -7,7 +7,7 @@
 ## 👋 About Me
 
 - **👀 Interests**: Gaming, Web Development, Game Development, and Open Source Contributions
-- **🌱 Learning**: React.js, TypeScript, and C/C++
+- **🌱 Learning**: React.js, JavaScript, TypeScript, and C/C++
 - **💡 Collaboration**: Passionate about working on innovative tech solutions and open-source projects
 - **📬 Contact Me**: Reach out via the links below!
 
@@ -68,7 +68,7 @@
   <strong>"Code is like humor. When you have to explain it, it’s bad."</strong>
 </p>
 
-<p align="center">Thanks for visiting! Feel free to explore my repositories and connect with me.</p>
+<!-- <p align="center">Thanks for visiting! Feel free to explore my repositories and connect with me.</p> -->
 
 
 
