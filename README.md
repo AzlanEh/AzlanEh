@@ -14,9 +14,9 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azlaneh&theme=aura&hide_border=true&include_all_commits=true&count_private=ture" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlaneh&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azlaneh&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azlaneh&show_icons=true&theme=tokyonight&hide_border=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azlaneh&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Azlaneh&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> </br>
 </div>
 
  <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaneh&theme=github-dark&hide_border=true) -->
